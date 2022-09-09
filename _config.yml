@@ -73,10 +73,10 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "custom"
   google:
     tracking_id          : "G-27B7V9Q707"
-google_analytics: "G-27B7V9Q707"
+
 
 # Site Author
 author:
