@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : Howard Zhang
-  avatar           : 
-  bio              : PhD Student in Economics
+  name             : "Howard Zhang"
+  avatar           : ""
+  bio              : "PhD Student in Economics"
   location         : "New York City"
   employer         : "Columbia University"
   pubmed           : 
