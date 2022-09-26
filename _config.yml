@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Howard Zhang"
+title                    : "Howard Zhang's Website"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Howard Zhang"
 description              : &description "PhD Candidate in Economics at Columbia University"
 url                      : https://howardzzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "hzz2000@columbia.edu"
+  email            : "howard.zhang@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

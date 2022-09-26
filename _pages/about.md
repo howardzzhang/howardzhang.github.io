@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Howard Zhang"
+title: "About Me"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/SP_0023.jpg" width="200">
+<p align="center">
+  <img src="/images/Zhang.jpg" width="300">
+</p>
 
-I am a 5th year PhD Candidate in the Economics Department at Columbia University. I am interested in spatial economics and international trade. 
+  I am a 6th year PhD Candidate in the Economics Department at Columbia University. I am on the 2022-2023 Job Market and available for interviews at the virtual ASSA.
 
-My job market paper focuses on meauring housing variety differences across cities and the implications for consumption inequality. 
+  I primarily work in International Trade and Urban Economics, with an interest in Real Estate.
 
-My CV is [here](/files/cv.pdf).
+  My CV is [here](/files/cv_full.pdf).
