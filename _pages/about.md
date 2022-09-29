@@ -24,7 +24,7 @@ redirect_from:
 
 **Abstract:** This paper estimates theoretically-founded housing price indices that account for differences in housing variety availability, where some varieties are available in certain cities but not others. I develop a model of housing demand and city choice that incorporates differentiated housing varieties and the discrete-nature of housing decisions. For estimation, I develop a method to jointly estimate the nests that varieties belong to and the elasticity of substitution across varieties within each nest. I find that households in larger cities benefit from having access to varieties not available in smaller cities. These consumption amenities are quantitatively large: the elasticity with respect to population is a third of the elasticity of housing prices with respect to population. After accounting for consumption amenities, real income increases with city size.
 
-## Working Papers
+## Working Papers 
 
 ### Learning from Exporting 
 
@@ -34,6 +34,6 @@ redirect_from:
 
 ## In Progress
 
-### Decreasing Returns to Scale and Exchange Rate Pass-Through
+#### Decreasing Returns to Scale and Exchange Rate Pass-Through
 
-### Shopping Alone: The Impact of the Decline of the American Mall (with Guy Aridor and Louise Guillouet)
+#### Shopping Alone: The Impact of the Decline of the American Mall (with Guy Aridor and Louise Guillouet)

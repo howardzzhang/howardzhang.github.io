@@ -3,9 +3,6 @@ main:
    - title: "About"
      url: /about
 
-   - title: "Research"
-     url: /about/research  
-
    - title: CV
      url: /files/cv_full.pdf    
     
