@@ -5,7 +5,10 @@ main:
 
    - title: CV
      url: /files/cv_full.pdf    
-    
+  
+   - title: "Teaching"
+     url: /teaching/
+     
   # - title: "Portfolio"
   #   url: /portfolio/
         

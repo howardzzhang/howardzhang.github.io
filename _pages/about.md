@@ -12,7 +12,7 @@ redirect_from:
   <img src="/images/Zhang.jpg" width="300">
 </p>
 
-  I am a 6th year PhD Candidate in the Economics Department at Columbia University. I am on the 2022-2023 Job Market.
+  I am a PhD Candidate in the Economics Department at Columbia University. I am on the 2022-2023 Job Market.
 
   I primarily work in International Trade and Urban Economics, with an interest in Real Estate.
 
