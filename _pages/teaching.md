@@ -18,5 +18,5 @@ Instructor: Waseem Noor (Spring 2021, Fall 2021)
 Instructor: Reka Juhasz (Fall 2019)
 
 ### Introduction to Econometrics 
-Instructor: Jushan Bai (Fall 2018)  
-Instructor: Tamrat Gashaw: (Spring 2019, Spring 2020)
+Instructor: Tamrat Gashaw (Spring 2019, Spring 2020)  
+Instructor: Jushan Bai (Fall 2018)
